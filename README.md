@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sourabhmalviya02
-- 👀 I’m interested in creating projects with my existing skills and explore new technologies
 - 📫 Contact me via my gmail id sourabhmalviya2408@gmail.com
 
 <!---
