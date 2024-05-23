@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @sourabhmalviya02
+- 💡 Skills I know - JAVA,HTML,CSS and many more.
+- 🎯 Focused on Upskilling.
 - 📫 Contact me via my gmail id sourabhmalviya2408@gmail.com
 
 <!---
